@@ -1,0 +1,71 @@
+.blackwhite {
+    background-color: black;
+    color: whitesmoke;
+    font-family: Verdana;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    font-family: verdana;
+    font-size: 15px;
+    color: white;
+}
+.font15{
+    font-family: verdana;
+    font-size: 15px;
+    color: white;
+}
+.footerfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+.column33L{
+    float: left;
+    width: 33.33%;
+}
+.column33R{
+    float: right;
+    width: 33.33%;
+}
+
+.icon {
+    border-radius: 50%;
+}
+
+h4 {
+    font-size: 24px;
+    color: white;
+    font-family: verdana;
+
+}
+.header-site-projects {
+    background-image: url('https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2017Q2/project-planning-header@2x.png');
+}
